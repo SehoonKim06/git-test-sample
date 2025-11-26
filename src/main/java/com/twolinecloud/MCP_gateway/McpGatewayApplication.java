@@ -18,6 +18,7 @@ import java.util.Map;
 
 @SpringBootApplication
 public class McpGatewayApplication {
+
 	
 	private static final Logger log = LoggerFactory.getLogger(McpGatewayApplication.class);
 
